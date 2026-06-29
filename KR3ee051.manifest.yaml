@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR3ee051/v1
+canonical_location: https://kanripo.org/bkk/KR3ee051/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楊成博先生遺留穴道秘書
+  identifiers:
+    krp: KR3ee051
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee051.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee051_000.yaml, hash: 'sha256:d33579e993d67219314958ad7e3b327ee843efc279b23eb39f730aed3c868b5a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee051_000.markers.yaml, hash: 'sha256:665040d4635ebfc146fa9c96bd338eace3aa8631e17655759b6735d6674dcdf9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee051_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1905
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee051_jc_000-d2d8
+    span:
+    - body
+    - 343
+    - 715
+  label: 看症口訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee051_jc_000-d2d9
+    span:
+    - body
+    - 715
+    - 1160
+  label: 四季口訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ee051_jc_000-d2d10
+    span:
+    - body
+    - 1160
+    - 1905
+  label: 大寒小寒
+  type: section
+  level: 2
+hash: sha256:80832b2407f111dfa764ec42c6d66c80a76ecd4f8453dfa5a2a72c9622188a9b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
