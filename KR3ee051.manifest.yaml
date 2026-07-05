@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee051_000.yaml, hash: 'sha256:d33579e993d67219314958ad7e3b327ee843efc279b23eb39f730aed3c868b5a'}
+  - {seq: 0, filename: KR3ee051_000.yaml, hash: 'sha256:58d38bfe63977cda856569f141f48ffbe563037c657955a0487dcc024a33c86b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee051_000.markers.yaml, hash: 'sha256:665040d4635ebfc146fa9c96bd338eace3aa8631e17655759b6735d6674dcdf9'}
+  - {seq: 0, role: markers, filename: assets/KR3ee051_000.markers.yaml, hash: 'sha256:7780a6363103de4cbf5fe6266dbd95ef8d11a9e25a0f3bd80039c116b16d1c41'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +61,4 @@ table_of_contents:
   label: 大寒小寒
   type: section
   level: 2
-hash: sha256:80832b2407f111dfa764ec42c6d66c80a76ecd4f8453dfa5a2a72c9622188a9b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a5e1132318a428929616fa45d2677708272633226cf49f2c140db17ef8819857
