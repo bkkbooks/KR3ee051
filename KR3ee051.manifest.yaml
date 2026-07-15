@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee051/v1
 canonical_location: https://kanripo.org/bkk/KR3ee051/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楊成博先生遺留穴道秘書
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee051_000.yaml, hash: 'sha256:58d38bfe63977cda856569f141f48ffbe563037c657955a0487dcc024a33c86b'}
+  - {seq: 0, filename: KR3ee051_000.yaml, hash: 'sha256:d33579e993d67219314958ad7e3b327ee843efc279b23eb39f730aed3c868b5a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee051_000.markers.yaml, hash: 'sha256:7780a6363103de4cbf5fe6266dbd95ef8d11a9e25a0f3bd80039c116b16d1c41'}
+  - {seq: 0, role: markers, filename: assets/KR3ee051_000.markers.yaml, hash: 'sha256:b9547cda7d4266e68d291ae3efdd815dd7b8510dc462c5a23a60df587b64fcae'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,7 @@ table_of_contents:
   label: 大寒小寒
   type: section
   level: 2
-hash: sha256:a5e1132318a428929616fa45d2677708272633226cf49f2c140db17ef8819857
+hash: sha256:df399849a8a0cf73c96f6a4b0574d621577a6fe4b2cd66b5f57ac423eb59dc95
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
